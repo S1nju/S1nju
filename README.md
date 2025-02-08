@@ -42,9 +42,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/S1nju/S1nju/output/snake.svg" alt="Snake animation" />
-
-###
