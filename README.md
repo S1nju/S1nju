@@ -10,18 +10,19 @@ I specialize in building scalable web applications and exploring the frontiers o
 | Category | Icons |
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,spring,java,python" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,py" /> `+ OpenCV, Scikit-learn` |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle,redis" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,php,fastapi,spring,java,python" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=tensorflow,py" /> `+ LangGraph, OpenCV, Scikit-learn` |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=java,android" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,nginx,prometheus,linux,git" /> `+ Hostinger` |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle,redis" /> `+ Qdrant` |
 
 ---
 
 ### 🔭 Current Missions
-- 🤖 **Agentic AI:** Developing a medical assistant using LangGraph and medication databases.
-- 🏗️ **Full-Stack:** Scaling a real-time collaborative drawing game using Laravel Reverb and React.
-- 📊 **RAG & NLP:** Fine-tuning Matryoshka embeddings for Arabizi and Darija datasets.
-- 📱 **Mobile Vision:** Optimizing YOLOv8-TfLite for Android device deployment.
+- 🤖 **Agentic RAG:** Developing a medical assistant using **LangGraph** and medication databases (+5000 medicaments).
+- 🏗️ **Full-Stack:** Building a real-time collaborative drawing game with microservices architecture using Laravel Reverb and React.
+- 📊 **RAG & NLP:** Fine-tuning Matryoshka embeddings for **Arabizi and Darija** datasets.
+- 📱 **Mobile Vision:** Optimizing YOLOv8-TfLite for Android device deployment using **Java**.
 
 ---
 
