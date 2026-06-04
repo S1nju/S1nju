@@ -4,16 +4,6 @@
 
 I am a software engineer passionate about building scalable web applications and exploring the frontiers of Machine Learning. My current focus is deep-diving into full-stack development, with an emphasis on system design and architecting distributed, resilient systems. I am dedicated to continuously sharpening my problem-solving skills to build cleaner, more efficient software.
 
-My technical toolkit includes:
-
-Full-Stack Development: Expert in the Laravel/React ecosystem.
-
-System Architecture: Proficient in containerization (Docker), web serving (Nginx), and managing production-grade environments.
-
-AI & Data: Specializing in Agentic AI, RAG pipelines, and fine-tuning embedding models for local dialects.
-
-Workflow: Git, GitHub, and the essential DevOps practices required to ship production-ready code.
-
 I thrive at the intersection of robust backend engineering and intelligent system design. Always building, always learning.
 ---
 
