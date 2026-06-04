@@ -1,8 +1,7 @@
 # Hi 👋, I'm Amine 🇩🇿
 
 ### ⚡ Full-Stack Developer & AI Enthusiast
-I specialize in building scalable web applications and exploring the frontiers of Machine Learning. Currently, I'm focused on **Agentic AI**, **RAG systems**, and fine-tuning embedding models for local dialects.
-
+I am a software engineer passionate about building scalable web applications and exploring the frontiers of Machine Learning. My current focus is deep-diving into full-stack development, with an emphasis on system design and architecting distributed, resilient systems. I am dedicated to continuously sharpening my problem-solving skills to build cleaner, more efficient / scalabale software.
 ---
 
 ### 🛠 Languages and Tools
