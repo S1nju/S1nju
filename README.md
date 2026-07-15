@@ -19,8 +19,8 @@ Frontend	<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css"
 Backend	<img src="https://skillicons.dev/icons?i=laravel,php,fastapi,spring,java,python" />
 AI / ML	<img src="https://skillicons.dev/icons?i=tensorflow,py" /> `+ LangGraph, OpenCV, Scikit-learn`
 Mobile	<img src="https://skillicons.dev/icons?i=java,android" />
-Infrastructure	<img src="https://skillicons.dev/icons?i=docker,nginx,prometheus,linux,git" /> `+ Hostinger`
-Databases	<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle,redis" /> `+ Qdrant`
+Infrastructure	<img src="https://skillicons.dev/icons?i=docker,nginx,prometheus,linux,git" />
+Databases	<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,oracle,redis" /> 
 ---
 🤝 Connect with Me
 <p align="left">
